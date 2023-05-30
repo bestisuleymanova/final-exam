@@ -1,0 +1,9 @@
+{
+    "users": [
+      {"id":"1","name": "Cloud Hosting", "usertype": "Admin"},
+      {"id":"2","name": "Web Hosting", "usertype": "Manager"},
+      {"id":"3","name": "Share Hosting", "usertype": "Admin"},
+      {"id":"4","name": "VPS Server", "usertype": "Manager"},
+      {"id":"5","name": "Nilantha", "usertype": "Manager"}
+    ]
+  }
